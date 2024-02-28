@@ -1,0 +1,56 @@
+CREATE TABLE Admins
+(
+username nvarchar(255),
+email nvarchar(255),
+phone nvarchar(255),
+password nvarchar(255)
+);
+
+CREATE TABLE Users
+(
+username nvarchar(255),
+email nvarchar(255),
+phone nvarchar(255),
+password nvarchar(255)
+);
+
+
+CREATE TABLE Components
+(
+Id int,
+Manufacturer nvarchar(255),
+Title nvarchar(255),
+Type nvarchar(255),
+CountCopies int,
+);
+
+
+INSERT INTO Components (Id, Manufacturer, Title, Type, CountCopies)
+VALUES
+(1, 'ASUS', 'GTX 1060', 'Видеокарта', 3),
+(2, 'COUGAR', 'CG650', 'Блок питания', 4),
+(3, 'MSI', 'A320M-A PRO', 'Материнская плата', 7),
+(4, 'ASRock', 'A320M-DVS', 'Материнская плата', 5),
+(6, 'AMD', 'FX-4300', 'Процессор', 3),
+(7, 'Intel', 'G4400 OEM', 'Процессор', 7),
+(8, 'AMD', 'Athlon 300g OEM', 'Процессор', 17),
+(9, 'Adata', 'Ultimate SU630', 'Жёсткий диск', 10),
+(10, 'DEEPCOOL', 'Theta 15 PWM', 'Кулер для процессора', 7),
+(11, 'AMD', 'R334G1339', 'Оперативная память', 2),
+(12, 'HP', 'S650', 'Жёсткий диск', 13),
+(13, 'ID-COLING', 'DK-17 PWM', 'Кулер для процессора', 2),
+(14, 'Aerocool', 'HERO-775', 'Блок питания', 34),
+(16, 'Patriot', 'P210', 'Жёсткий диск', 43),
+(17, 'MASHINIST', 'HGD510 X79', 'Материнская плата', 81),
+(18, 'HUANAN', 'HDGH10 X99', 'Материнская плата', 17),
+(19, 'Intel', 'I3 2120', 'Процессор', 51),
+(20, 'AMD', 'FX-4400', 'Процессор', 61),
+(21, 'AGI', 'IO900', 'Оперативная память', 15),
+(22, 'DEXP', 'P210', 'Жёсткий диск', 11),
+(23, 'Apacer', 'ROI-960', 'Жёсткий диск', 67),
+(24, 'DEXP', 'RG-600', 'Блок питания', 53),
+(25, 'Patriot', 'P710', 'Жёсткий диск', 124),
+(26, 'Silicon', 'HGFH565', 'Оперативная память', 65),
+(27, 'XPG', 'P210', 'Оперативная память', 53);
+
+Base = DBSRV\GOR2023

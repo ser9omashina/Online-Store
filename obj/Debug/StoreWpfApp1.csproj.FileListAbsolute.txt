@@ -1,0 +1,93 @@
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\bin\Debug\StoreWpfApp1.exe.config
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\bin\Debug\StoreWpfApp1.exe
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\bin\Debug\StoreWpfApp1.pdb
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.AssemblyReference.cache
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.SuggestedBindingRedirects.cache
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\obj\Debug\MainWindow.g.cs
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\obj\Debug\App.g.cs
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\obj\Debug\StoreWpfApp1_MarkupCompile.cache
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\obj\Debug\StoreWpfApp1_MarkupCompile.lref
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\obj\Debug\MainWindow.baml
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\obj\Debug\StoreWpfApp1.g.resources
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\obj\Debug\StoreWpfApp1.Properties.Resources.resources
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.GenerateResource.cache
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\obj\Debug\StoreWpfApp1.exe
+\\iscsi\profstud\tusyuksa\Desktop\StoreWpfApp1\obj\Debug\StoreWpfApp1.pdb
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\StoreWpfApp1.exe.config
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\StoreWpfApp1.exe
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\StoreWpfApp1.pdb
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.AssemblyReference.cache
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.SuggestedBindingRedirects.cache
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\App.g.cs
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1_MarkupCompile.cache
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1_MarkupCompile.lref
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.g.resources
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.Properties.Resources.resources
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.GenerateResource.cache
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.exe
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.pdb
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\MainWindow.g.cs
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\MainWindow.baml
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\Registration.g.cs
+\\iscsi\profstud\tusyuksa\Desktop\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\Registration.baml
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\StoreWpfApp1.exe.config
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\StoreWpfApp1.exe
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\StoreWpfApp1.pdb
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.AssemblyReference.cache
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\MainWindow.g.cs
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\App.g.cs
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1_MarkupCompile.cache
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1_MarkupCompile.lref
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\MainWindow.baml
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.g.resources
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.Properties.Resources.resources
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.GenerateResource.cache
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.CoreCompileInputs.cache
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.exe
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.pdb
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\StoreWpfApp1.exe.config
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\StoreWpfApp1.exe
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\StoreWpfApp1.pdb
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.AssemblyReference.cache
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\MainWindow.g.cs
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\App.g.cs
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1_MarkupCompile.cache
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1_MarkupCompile.lref
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\MainWindow.baml
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.g.resources
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.Properties.Resources.resources
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.GenerateResource.cache
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.CoreCompileInputs.cache
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.exe
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.pdb
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\MaterialDesignColors.dll
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\MaterialDesignColors.pdb
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.CopyComplete
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\App.baml
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\MaterialDesignColors.dll
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\MaterialDesignColors.pdb
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\App.baml
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\StoreWpfApp1.csproj.CopyComplete
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\RegisterWindow.g.cs
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\RegisterWindow.baml
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\RegisterWindow.g.cs
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\RegisterWindow.baml
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\MakingOrder.g.cs
+G:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\MakingOrder.baml
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\MakingOrder.g.cs
+D:\Серёга ВКИ\Разработка приложения для магазина компьютерных комплектующих на платформе WPF\StoreWpfApp1\obj\Debug\View\MakingOrder.baml
